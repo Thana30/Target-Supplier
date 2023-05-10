@@ -1,4 +1,4 @@
-# Target-Supplier
+﻿# Target-Supplier
 This project aims to collect supplier information and classify them based on their business scope. 
 It allows the suppliers to register themselves in a database which can be easily accessed by the buyers, expediters and mangers.
 
@@ -23,5 +23,5 @@ it will not work if you try to write or read from the database.
 2- contact_pages:
 Its not a contact page actually , it just addtional page, for testing codes. You can ignore it. 
 
-3- I have excel sheet programed to have the ability to acces the database and retrive the suplier information from it. I didnt uplud it. 
+3- I have excel sheet programed to have the ability to acces the database and retrive the suplier information from it. I didnt uploud it. 
 Contact me if you need it. alzaidt@gmail.com
